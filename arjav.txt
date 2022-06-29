@@ -1,0 +1,1 @@
+Hi i am Arjav Jain and this is my first git commit using Bash
